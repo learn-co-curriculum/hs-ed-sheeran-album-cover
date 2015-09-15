@@ -1,5 +1,7 @@
 # Ed Sheeran Album Cover
 
+<img src="https://s3.amazonaws.com/after-school-assets/ed-sheeran.gif" align="right" width="300" hspace="10">
+
 You've been hired by Ed Sheeran to write the code for his new album cover. He's given you the specs for what he wants the album cover to look like. You can take a look at `MOCKUP.jpg` to see the specs.
 
 You'll be coding your solution in `index.html`. Read the comments to help figure out what HTML tags to use. You'll use the text provided in `SOURCE.md` for the text of the album cover. Don't worry about the CSS. Other developers took care of that work for you.
