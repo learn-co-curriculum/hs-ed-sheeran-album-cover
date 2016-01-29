@@ -23,4 +23,4 @@ The image you need (`hal-leonard-image.jpg`) is located in the images directory.
 **6.** Use an `img` tag for the Hal Leonard Corporation logo
 
 
-<a href='https://learn.co/lessons/hs-ed-sheeran-album-cover' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ed-sheeran-album-cover' title='Ed Sheeran Album Cover'>Ed Sheeran Album Cover</a> on Learn.co and start learning to code for free.</p>
